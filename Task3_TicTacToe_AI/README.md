@@ -13,4 +13,5 @@ FEATURES
 - Interactive command-line interface
   
 HOW TO RUN
+save the file as TIC_TAC_TOE.py open the cmd in the project folder run: python TIC_TAC_TOE.py
 
